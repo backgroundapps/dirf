@@ -15,3 +15,6 @@ src:
     - logo.favicon
 
 ```
+
+### Sintax
+If you know yaml your know basically everithing.
