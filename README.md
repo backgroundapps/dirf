@@ -17,4 +17,4 @@ src:
 ```
 
 ### Sintax
-If you know yaml your know basically everithing.
+If you know yaml you already know basically everything.
