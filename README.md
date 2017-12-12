@@ -1,2 +1,2 @@
 # Dirf
-go template app generator DSL
+Golang template app generator DSL
